@@ -1,2 +1,2 @@
-# first-repo
-this is my first repository.
+# first repo
+assignment#1
